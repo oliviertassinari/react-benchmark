@@ -31,4 +31,3 @@ switch (type) {
     }).run();
     break;
 }
-
