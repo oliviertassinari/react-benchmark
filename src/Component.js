@@ -1,9 +1,11 @@
 import React from 'react';
 
+<Baz foo="bar" key="1" />;
+
 export default React.createClass({
   render() {
     return (
-      <div>Hello World</div>
+      <div className="hello">Hello World</div>
     );
   }
 });
